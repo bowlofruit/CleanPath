@@ -1,0 +1,19 @@
+{
+    "name": "CleanPath.UI",
+    "rootNamespace": "CleanPath.UI",
+    "references": [
+        "CleanPath.Core",
+        "CleanPath.Config",
+        "CleanPath.Game",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
